@@ -1,4 +1,4 @@
-[![Generic badge](https://img.shields.io/badge/Open%20to%20work-yes-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Open%20to%20work-yes-brightgreen.svg)](https://shields.io/)
 
 
 #### Technologies:
